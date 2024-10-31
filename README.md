@@ -8,7 +8,7 @@ curl https://raw.githubusercontent.com/shiwildy/SHC-Decryptor/refs/heads/main/in
 
 ## Usage
 ```bash
-shcdecryptor shc.encrypted.file.sh
+shcdecryptor ./shc.encrypted.file.sh
 ```
 
 ## Info
